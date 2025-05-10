@@ -70,7 +70,7 @@ nltk.download('stopwords')
 
 ---
 
-## :pin: Notes
+## :pushpin: Notes
 - GUI labels and messages are in **Persian (Farsi)**.
 - The app focuses on **news titles** only (for simplicity).
 - Supports only English-language `.txt` news files.

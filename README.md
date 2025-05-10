@@ -17,12 +17,12 @@ Fake news classifier for English texts with a Persian tkinter GUI, using nltk fo
 - 📊 ML model using `Logistic Regression` and `CountVectorizer`
 - 📂 Import `.txt` files and classify news content
 - 💾 Save and load trained models (`.pkl`)
-- 🖥️ User-friendly **GUI interface** with Persian labels
+- 🖥️ **GUI interface** with Persian labels
 
 ---
 
 ## :inbox_tray: Download Dataset
-The required dataset files (Fake.csv and True.csv) are not included in this repository due to size or licensing limits.
+The required dataset files (`Fake.csv` and `True.csv`) are not included in this repository due to size or licensing limits.
 
 To download them:
 
@@ -51,7 +51,7 @@ To run this project, ensure you have the following installed:
 ```bash
 pip install pandas numpy nltk scikit-learn customtkinter joblib
 ```
-- NLTK Data:
+- NLTK data:
 ```python
 import nltk
 nltk.download('stopwords')
@@ -75,7 +75,7 @@ cd fake-news-detector
 pip install -r requirements.txt
 ```
 
-3. Download NLTK stopwords (only once):
+3. Download NLTK stopwords:
 
 ```python
 import nltk

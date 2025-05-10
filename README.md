@@ -21,12 +21,26 @@ Fake news classifier for English texts with a Persian tkinter GUI, using nltk fo
 
 ---
 
-## :open_file_folder: Dataset Structure
-```
+## :inbox_tray: Download Dataset
+The required dataset files (Fake.csv and True.csv) are not included in this repository due to size or licensing limits.
+
+To download them:
+
+1. Open the file:
+
+    [dataset in Kaggle.com](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+
+2. Follow the link inside to manually download the dataset.
+
+3. Place the downloaded files in the `dataset/` directory like so:
+
+```bash
 ├── dataset/
-│ ├── Fake.csv
-│ └── True.csv
+│   ├── Fake.csv
+│   └── True.csv
+│   └── dataset-link.txt
 ```
+
 ---
 
 ## :clipboard: Prerequisites

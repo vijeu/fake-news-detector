@@ -91,5 +91,6 @@ nltk.download('stopwords')
 
 ---
 
-## :page_facing_up: مجوز
-این پروژه تحت مجوز MIT License منتشر شده است. جزئیات در فایل LICENSE قرار دارد.
+## :page_facing_up: License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
